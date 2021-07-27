@@ -1,4 +1,4 @@
-![Aquí la descripción de la imagen por si no carga](https://github.com/jefersonjl99/jefersonjl99/blob/main/Qotd9S5.jpg)
+![Aquí la descripción de la imagen por si no carga](https://github.com/jefersonjl99/jefersonjl99/blob/main/portada.png)
 - 👋 Hi, I’m Jeferson Esteban Jimenez
 - 👀 I’m interested in development, programming and space exploration.
 - 🌱 I’m currently learning PHP, R, C # and various frameworks for python and java
